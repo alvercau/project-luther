@@ -11,7 +11,7 @@ Rotten Tomatoes has a limited database, presumably it is regularly cleaned out, 
 
 ## Description of my sample of movies and/or other data:
 
-* 1484 movies from the [Rotten Tomatoes] (https://www.rottentomatoes.com/browse/dvd-streaming-all?minTomato=0&maxTomato=100&services=amazon;hbo_go;itunes;netflix_iw;vudu;amazon_prime;fandango_now&genres=14&sortBy=release) website, from the category 'Sci-Fi and Fantasy'. 
+* 1484 movies from the [Rotten Tomatoes](https://www.rottentomatoes.com/browse/dvd-streaming-all?minTomato=0&maxTomato=100&services=amazon;hbo_go;itunes;netflix_iw;vudu;amazon_prime;fandango_now&genres=14&sortBy=release) website, from the category 'Sci-Fi and Fantasy'. 
 * No selection by date or rating, all movies from the category are taken into account.
 
 __Note:__ other categories may be included time permitting, code is written to easily scrape data from other categories.
