@@ -3,11 +3,11 @@
 
 ## Question:
 
-* Can the rating of a movie (by critics and amateurs) be predicted from the release date?
+* Can the rating of a movie (by critics and audience) be predicted from the release date?
 * Secondary question: which features are relevant for the rating of a movie?
 
 __Hypothesis:__  
-Rotten Tomatoes has a limited database, presumably it is regularly cleaned out, getting rid of reviews of movies that are not relevant anymore. Older movies are more likley to be eliminated from the databse, or were never in there to begin with, __except__ if they are considered to be classics and are hence likley have a higher rating. 
+Rotten Tomatoes has a limited database, presumably it is regularly cleaned out, getting rid of reviews of movies that are not relevant anymore. Older movies are more likley to be eliminated from the databse, or were never in there to begin with, __except__ if they are considered to be classics and are hence more likely to have a higher rating. 
 
 ## Description of my sample of movies and/or other data:
 
