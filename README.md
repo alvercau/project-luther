@@ -16,10 +16,8 @@ A rich and powerful man decides that he wants to produce a Sci-Fi or Fantasy mov
 __Note:__ Code is written to easily scrape data from other categories.
 
 
-## Characteristics of each movie:
+## Variables scraped: 
 
-* Sci-Fi or Fantasy
-* Following variables are collected:
 > 1. Critics score
 > 2. Critics rating
 > 3. Number of critics reviews
@@ -35,6 +33,3 @@ __Note:__ Code is written to easily scrape data from other categories.
 > 13. Release date on disc
 > 14. Rating
 > 15. Studio  
-
-Given that money is a non-issue, box office can be dropped. 
-
